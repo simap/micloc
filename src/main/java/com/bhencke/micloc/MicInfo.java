@@ -1,3 +1,5 @@
+package com.bhencke.micloc;
+
 import java.awt.Point;
 
 
